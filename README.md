@@ -1,4 +1,4 @@
-# 2048-in-Terminal
+# Terminal2048
 
 This is a replica of the popular game 2048, built to run in your terminal! (Original game found here: https://play2048.co/)
 
